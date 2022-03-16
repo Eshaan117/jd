@@ -1,0 +1,76 @@
+
+@media only screen and (min-width:800px) and (max-width:2000px){
+*{
+    padding:0px;
+    margin:0px;
+}
+
+.former{
+   
+    margin:200px auto;
+}
+
+.former div{
+   
+    width:25%;
+    margin:10px auto;
+
+}
+
+.former button{
+    width:100%;
+    padding:10px;
+    background-color:black;
+    border:none;
+    border-radius:20px;
+
+}
+
+.former button a{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color:white;
+    text-decoration: none;
+
+}
+
+}
+
+
+@media only screen and  (min-width:300px) and (max-width:414px) {
+
+      /*Write down the code for that */
+
+      .former{
+       
+          padding:10px;
+          width:100%;
+          margin:110px auto;
+
+      }
+
+      .former  div{
+         
+          margin:10px auto;          
+
+      }
+
+      .former button{
+          width:100%;
+          background-color:black;
+          border:none;
+          padding:10px;
+        
+          border-radius:20px;
+          margin-top:10px;
+      }
+
+      .former button a{
+          color:white;
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          font-size: 20px;
+          text-decoration: none;
+      }
+
+}
